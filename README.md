@@ -31,7 +31,6 @@ I'm focused on QA Automation and building reliable web automation solutions usin
 
 - Java Selenium Automation Framework
 - E-Commerce Application Automation
-- Healthcare Claims Management Testing
 
 ### 🌱 Currently Learning
 
